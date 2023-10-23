@@ -1,0 +1,36 @@
+
+.proPic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+
+.headerInfo {
+    width:100%;
+    height:170px;
+    padding:10px;
+  }
+  .picSection {
+    float:left;
+  }
+  .nameSec {
+    margin-top: 30px;
+    margin-left:15%;
+    font-family:'Times New Roman', Times, serif;
+  }
+
+
+  table td {
+    padding:4px;
+    margin-left: 10px;
+  }
+
+  table th {
+    text-align: left;
+    text-decoration: underline;
+  }
+
+  .StudyStatus {
+    font-size: small;
+  }
+
